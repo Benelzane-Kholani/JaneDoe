@@ -12,6 +12,12 @@ body{
     color: #C10137;
 }
 
+.hero{
+  background-image: url('../img/pexels-mathias-sogorski-746842789-18714267.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     position: relative;
     margin-left: 25px;
@@ -61,7 +67,6 @@ body{
 }
 
 .heading{
-    
     font-family: 'Poppins', sans-serif;
 }
 
@@ -127,7 +132,6 @@ body{
     padding-left: 35px; 
     background-color:rgb(227, 232, 237);
  }
-
 
 
  .contact-icons{
