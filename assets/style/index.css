@@ -13,7 +13,7 @@ body{
 }
 
 .hero{
-  background-image: url('../img/pexels-mathias-sogorski-746842789-18714267.jpg');
+  background-image: url(../img/pexels-mathias-sogorski-746842789-18714267.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
